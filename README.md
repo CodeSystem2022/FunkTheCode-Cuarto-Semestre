@@ -1,4 +1,6 @@
-# _Grupo:_ **Funk The Code** ⚡
+**`SEMANA 1 (14/8 AL 19/8) SCRUM MASTER: JONATHAN CATRIEL QUINTANA`**
+
+ _Grupo:_ **Funk The Code** ⚡
 
 #### _Repositorio del cuarto semestre 2023 - UTN San Rafael - Programación._
 
