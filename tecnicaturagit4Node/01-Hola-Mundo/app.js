@@ -1,5 +1,5 @@
 const nombre = 'jonathan';
 console.log(nombre);
 
-nombre = 'Juan';
-console.log(nombre);
+const nombre2 = 'Juan';
+console.log(nombre2);
