@@ -46,7 +46,7 @@ __________________________________________|
 > ## _Lenguajes utilizados éste cuatrimestre_:
 
 ```
-- Python
+-Python
 -Java
 -JavaScript
 
