@@ -4,7 +4,7 @@
 
 #### _Repositorio del cuarto semestre 2023 - UTN San Rafael - Programación._
 
-![funk the code](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjIxZTQ1MGFiMWZhNjgzNWY0NjM5NmM5YTU4MmYwMDBiMGJkYTY1ZSZjdD1n/FoVzfcqCDSb7zCynOp/giphy.gif)
+![funk the code](https://i.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.webp)
 
 > ## **Integrantes**:
 
