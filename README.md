@@ -74,7 +74,7 @@ https://www.youtube.com/watch?v=nOR-zkqrXfE&ab_channel=AndresMontes
 
 ```
 
-> ## _Lenguajes Utilizados_:
+
 >
 > ![py](https://media.tenor.com/kxZgL7zPf0EAAAAC/hello-world-seytonic.gif)
 
