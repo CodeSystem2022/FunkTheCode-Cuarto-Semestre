@@ -20,8 +20,8 @@
 > ## _Materias_:
 
 ```
-Laboratorio  III: Python y JavaScript 🐍 🌐 
-Programación III: Java ☕
+Laboratorio  IV
+Metodología de sistemas 
 ```
 
 > ## _Organización Semanal_:
