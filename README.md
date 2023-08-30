@@ -10,7 +10,7 @@
 
 - #### 1 - Jonathan Catriel Quintana
 - #### 2 - Carla Fuschino
-- #### 3 - María Bárbara Herrera
+- #### 3 - María Bárbara Natasha Herrera
 - #### 4 - Nicolás Rizo Avellaneda
 - #### 5 - Andrés Montes
 - #### 6 - Danilo Profita
@@ -31,7 +31,7 @@ Metodología de sistemas
 __________________________________________|
 | Semana 01 | **Catriel Quintana**        | 
 | Semana 02 | **Andrés Montes**           | 
-| Semana 03 | **María Bárbara Herrera**   | 
+| Semana 03 | **María Bárbara Natasha Herrera**    
 | Semana 04 | **Carla Fuschino**          | 
 | Semana 05 | **Nicolás Rizo Avellaneda** | 
 | Semana 06 | **Andrés Montes**           | 
