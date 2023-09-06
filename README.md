@@ -1,4 +1,4 @@
-**`SEMANA 1 (14/8 AL 19/8) SCRUM MASTER: JONATHAN CATRIEL QUINTANA`**
+
 
  _Grupo:_ **Funk The Code** ⚡
 
@@ -30,7 +30,7 @@ Metodología de sistemas
 | Semana    | Delegad@                    | 
 __________________________________________|
 | Semana 01 | **Catriel Quintana**        | 
-| Semana 02| **Carla Fuschino**          | 
+| Semana 02 | **Carla Fuschino**          | 
 | Semana 03 | **Andrés Montes**           | 
 | Semana 04 | **María Bárbara Natasha Herrera**    
 | Semana 05 | **Nicolás Rizo Avellaneda** | 
