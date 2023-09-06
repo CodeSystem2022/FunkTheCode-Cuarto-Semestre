@@ -30,9 +30,9 @@ Metodología de sistemas
 | Semana    | Delegad@                    | 
 __________________________________________|
 | Semana 01 | **Catriel Quintana**        | 
-| Semana 02 | **Andrés Montes**           | 
-| Semana 03 | **María Bárbara Natasha Herrera**    
-| Semana 04 | **Carla Fuschino**          | 
+| Semana 02| **Carla Fuschino**          | 
+| Semana 03 | **Andrés Montes**           | 
+| Semana 04 | **María Bárbara Natasha Herrera**    
 | Semana 05 | **Nicolás Rizo Avellaneda** | 
 | Semana 06 | **Andrés Montes**           | 
 | Semana 07 | **Catriel Quintana**        | 
