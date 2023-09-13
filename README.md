@@ -40,7 +40,8 @@ Metodología de sistemas
 | Semana 09 | **Matias Diaz de Otazu**    |
 | Semana 10 | **Danilo Profita**          |
 | Semana 11 | **Danilo Profita**          |
-‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
+__________________________________________|
+                                          |
 ```
 
 
