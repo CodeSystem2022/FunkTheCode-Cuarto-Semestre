@@ -28,7 +28,7 @@ Metodología de sistemas
 
 ```
 | Semana    | Delegad@                    | 
-‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
+|‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
 | Semana 01 | **Catriel Quintana**        | 
 | Semana 02 | **Carla Fuschino**          | 
 | Semana 03 | **Andrés Montes**           | 
@@ -40,7 +40,7 @@ Metodología de sistemas
 | Semana 09 | **Matias Diaz de Otazu**    |
 | Semana 10 | **Danilo Profita**          |
 | Semana 11 | **Danilo Profita**          |
-__________________________________________|
+|_________________________________________|
 ```
 
 
