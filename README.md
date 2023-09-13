@@ -41,7 +41,6 @@ Metodología de sistemas
 | Semana 10 | **Danilo Profita**          |
 | Semana 11 | **Danilo Profita**          |
 __________________________________________|
-                                          |
 ```
 
 
