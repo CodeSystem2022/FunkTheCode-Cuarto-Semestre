@@ -5,11 +5,11 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.1.2</version>
+		<version>3.1.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>utn</groupId>
-	<artifactId>estudiantes </artifactId>
+	<artifactId>estudiantes</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>estudiantes</name>
 	<description>Proyecto Sistema Estudiantes</description>
