@@ -1,0 +1,1 @@
+-- Este archivo hace referencia a la base de datos o al script sql que vamos a utilizar
