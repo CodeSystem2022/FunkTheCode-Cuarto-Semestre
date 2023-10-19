@@ -13,7 +13,6 @@ import lombok.ToString;
 @NoArgsConstructor
 @AllArgsConstructor
 @ToString
-
 public class Libro {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
