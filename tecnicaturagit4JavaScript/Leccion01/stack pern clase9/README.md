@@ -1,1 +1,1 @@
-Semana 11 - Scrum Master - Braian Guzmán Echarri.
+clase 09 Stack Pern
